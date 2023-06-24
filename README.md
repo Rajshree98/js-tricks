@@ -1,1 +1,1 @@
-# js-tricks
+# Here we will be working on some quick Js tricks, which will aid us in solving complex problems.
